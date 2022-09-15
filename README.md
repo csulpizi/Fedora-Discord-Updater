@@ -8,6 +8,6 @@ Updating Discord on Fedora is not super convenient: running an outdated version 
 
 **Usage**
 
-`sh update_discord.sh`
+`sudo sh update_discord.sh`
 
 Will download, unpack, and run the newest version of discord. Before closing Discord, pin this new file to the dock or desktop; running the old executable will revert the version.
